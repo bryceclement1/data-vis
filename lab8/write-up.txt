@@ -1,0 +1,13 @@
+Include your web screenshot and mobile screenshot of your responsive scatterplot visualization. You can simply upload these to the GitHub classroom repo and call them “screenshot-web.png” and “screenshot-mobile.png”.
+
+How long did this take (estimate)?
+About 5 hours.
+
+What were the enjoyable aspects of the lab?
+I liked that most of the code was done, so we could get the visualizations working easier.
+
+What were the challenging parts of this lab?
+Many of the concepts were new like making the vis change based on window size, or the scrolling aspect.
+
+What resources did you use? Include links to websites below. 
+None other than the intructions.
