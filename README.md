@@ -1,2 +1,3 @@
-# bryceclement1.github.io
-This is a repository for my projects
+# data vis
+
+This is a repository for data vis projects
